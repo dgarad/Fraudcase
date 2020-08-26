@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="cxs_table_field_config">
+    <cxs_table_field_config action="DELETE">
+        <cxs_table_config display_value="Fraud case Management [x_262216_fraud_cas_fraud_case_management]">05611182db3610103de258b3ca961966</cxs_table_config>
+        <default_config>true</default_config>
+        <field>short_description</field>
+        <name>Short description [short_description]</name>
+        <order>100</order>
+        <sys_class_name>cxs_table_field_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-24 11:07:39</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>95d19582db3610103de258b3ca9619c7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Short description [short_description]</sys_name>
+        <sys_package display_value="Fraud case Management" source="x_262216_fraud_cas">4c7e7c2adb2610103de258b3ca9619ad</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Fraud case Management">4c7e7c2adb2610103de258b3ca9619ad</sys_scope>
+        <sys_update_name>cxs_table_field_config_95d19582db3610103de258b3ca9619c7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-24 11:07:39</sys_updated_on>
+    </cxs_table_field_config>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Fraud case Management">4c7e7c2adb2610103de258b3ca9619ad</application>
+        <file_path/>
+        <instance_id>6961a073db939384536ad5b0cf9619e2</instance_id>
+        <instance_name>dev66241</instance_name>
+        <name>cxs_table_field_config_95d19582db3610103de258b3ca9619c7</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="cxs_table_field_config"><cxs_table_field_config action="INSERT_OR_UPDATE"><cxs_table_config display_value="Fraud case Management [x_262216_fraud_cas_fraud_case_management]">05611182db3610103de258b3ca961966</cxs_table_config><default_config>true</default_config><field>short_description</field><name>Short description [short_description]</name><order>100</order><sys_class_name>cxs_table_field_config</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-08-24 11:07:39</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>95d19582db3610103de258b3ca9619c7</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Short description [short_description]</sys_name><sys_package display_value="Fraud case Management" source="x_262216_fraud_cas">4c7e7c2adb2610103de258b3ca9619ad</sys_package><sys_policy/><sys_scope display_value="Fraud case Management">4c7e7c2adb2610103de258b3ca9619ad</sys_scope><sys_update_name>cxs_table_field_config_95d19582db3610103de258b3ca9619c7</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-08-24 11:07:39</sys_updated_on></cxs_table_field_config></record_update>]]></payload>
+        <payload_hash>-2105919256</payload_hash>
+        <record_name>Short description [short_description]</record_name>
+        <reverted_from/>
+        <source>cc7e7c2adb2610103de258b3ca9619af</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-24 11:07:39</sys_created_on>
+        <sys_id>ddd19582db3610103de258b3ca9619c9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1742026fb120000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-24 11:07:39</sys_updated_on>
+        <type>Search Field</type>
+        <update_guid>d5d195826f361010c17b05247977d2c9</update_guid>
+        <update_guid_history>d5d195826f361010c17b05247977d2c9:-2105919256</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Record deleted 2020-08-24 16:43:54">784399c2db3610103de258b3ca961900</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-24 11:13:54</sys_created_on>
+        <sys_db_object display_value="" name="cxs_table_field_config">cxs_table_field_config</sys_db_object>
+        <sys_id>0f6feccab8094d16b6193a993faaaf01</sys_id>
+        <sys_metadata>95d19582db3610103de258b3ca9619c7</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Short description [short_description]</sys_name>
+        <sys_package display_value="Fraud case Management" source="x_262216_fraud_cas">4c7e7c2adb2610103de258b3ca9619ad</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Fraud case Management">4c7e7c2adb2610103de258b3ca9619ad</sys_scope>
+        <sys_scope_delete display_value="">0364eeff9d3a4cc0b98b36d62fc50984</sys_scope_delete>
+        <sys_update_name>cxs_table_field_config_95d19582db3610103de258b3ca9619c7</sys_update_name>
+        <sys_update_version display_value="cxs_table_field_config_95d19582db3610103de258b3ca9619c7">ddd19582db3610103de258b3ca9619c9</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-24 11:13:54</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

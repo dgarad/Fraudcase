@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-13 12:47:37</sys_created_on>
+        <sys_id>1e3f386adb2610103de258b3ca9619e7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x.262216.workspace.fraud_case_managem.fraud_case_management</sys_name>
+        <sys_package display_value="Fraud case Management" source="x_262216_fraud_cas">4c7e7c2adb2610103de258b3ca9619ad</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Fraud case Management">4c7e7c2adb2610103de258b3ca9619ad</sys_scope>
+        <sys_security_acl display_value="x.262216.workspace.fraud_case_managem">5e3f386adb2610103de258b3ca9619dc</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_1e3f386adb2610103de258b3ca9619e7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-13 12:47:37</sys_updated_on>
+        <sys_user_role display_value="fraud_case_management" name="fraud_case_management">1e3f386adb2610103de258b3ca9619e2</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" extends="task" label="Fraud case Management" max_length="40" name="x_262216_fraud_cas_fraud_case_management" sizeclass="16" type="collection">
+        <element choice="1" label="Case Stages" max_length="40" name="case_stages" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Awaiting initial action" sequence="1" value="Awaiting initial action"/>
+                <element inactive_on_update="false" label="Under Action" sequence="2" value="under_action"/>
+                <element inactive_on_update="false" label="Awaiting information" sequence="3" value="awaiting_information"/>
+                <element inactive_on_update="false" label="Awaiting  resolution" sequence="4" value="Awaiting resolution"/>
+                <element inactive_on_update="false" label="Closed -resolved" sequence="5" value="Closed -resolved"/>
+                <element inactive_on_update="false" label="Closed - not substantiated" sequence="6" value="Closed - not substantiated"/>
+            </choice>
+        </element>
+        <element choice="1" label="category" max_length="40" name="category" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Employee Fraud" sequence="1" value="employee fraud"/>
+                <element inactive_on_update="false" label="Birbery/Corruption" sequence="2" value="birbery_Ccorruption"/>
+                <element inactive_on_update="false" label="Insurance Fraud" sequence="3" value="insurance fraud"/>
+                <element inactive_on_update="false" label="Healthcare Faurd" sequence="4" value="healthcare faurd"/>
+                <element inactive_on_update="false" label="Debit and Credit card Fraud" sequence="5" value="Debit and Credit card Fraud"/>
+                <element inactive_on_update="false" label="Banking Fraud" sequence="6" value="Banking Fraud"/>
+                <element inactive_on_update="false" label="Online fraud" sequence="7" value="Online fraud"/>
+                <element inactive_on_update="false" label="Data and identity theft fraud" sequence="8" value="Data and identity theft fraud"/>
+                <element inactive_on_update="false" label="Procurement fraud" sequence="9" value="Procurement fraud"/>
+                <element inactive_on_update="false" label="Email/phone call fraud" sequence="10" value="email and phone call fraud"/>
+            </choice>
+        </element>
+    </element>
+</database>

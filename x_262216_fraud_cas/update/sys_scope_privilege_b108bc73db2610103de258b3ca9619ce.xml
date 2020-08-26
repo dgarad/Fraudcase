@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_scope_privilege">
+    <sys_scope_privilege action="INSERT_OR_UPDATE">
+        <operation>execute</operation>
+        <source_scope display_value="Fraud case Management">4c7e7c2adb2610103de258b3ca9619ad</source_scope>
+        <status>allowed</status>
+        <sys_class_name>sys_scope_privilege</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-17 09:28:36</sys_created_on>
+        <sys_id>b108bc73db2610103de258b3ca9619ce</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>GlideRecord.update</sys_name>
+        <sys_package display_value="Fraud case Management" source="x_262216_fraud_cas">4c7e7c2adb2610103de258b3ca9619ad</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Fraud case Management">4c7e7c2adb2610103de258b3ca9619ad</sys_scope>
+        <sys_update_name>sys_scope_privilege_b108bc73db2610103de258b3ca9619ce</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-17 09:28:36</sys_updated_on>
+        <target_name>GlideRecord.update</target_name>
+        <target_scope display_value="Global">global</target_scope>
+        <target_type>scriptable</target_type>
+    </sys_scope_privilege>
+</record_update>

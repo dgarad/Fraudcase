@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role_contains">
+    <sys_user_role_contains action="INSERT_OR_UPDATE">
+        <contains display_value="workspace_user" name="workspace_user">3bf8d5b65344130084acddeeff7b122b</contains>
+        <role display_value="fraud_case_management" name="fraud_case_management">1e3f386adb2610103de258b3ca9619e2</role>
+        <sys_class_name>sys_user_role_contains</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-13 12:47:37</sys_created_on>
+        <sys_id>123f386adb2610103de258b3ca9619ed</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>workspace_user.fraud_case_management</sys_name>
+        <sys_package display_value="Fraud case Management" source="x_262216_fraud_cas">4c7e7c2adb2610103de258b3ca9619ad</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Fraud case Management">4c7e7c2adb2610103de258b3ca9619ad</sys_scope>
+        <sys_update_name>sys_user_role_contains_123f386adb2610103de258b3ca9619ed</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-13 12:47:37</sys_updated_on>
+    </sys_user_role_contains>
+</record_update>

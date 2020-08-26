@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_aw_master_config">
+    <sys_aw_master_config action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <brand_color/>
+        <compiled_page display_value="Workspace Core">b70867ad0f603300bb57f4a1ff767e15</compiled_page>
+        <compiled_page_registry display_value="Fraud case Management">a93fb02adb2610103de258b3ca9619d2</compiled_page_registry>
+        <description>Fraud case Management</description>
+        <global_search display_value="Default search settings">97a574ea53c0130084acddeeff7b12a6</global_search>
+        <global_search_data display_value="Fraud case Management Search Context Config">a53fb02adb2610103de258b3ca9619d0</global_search_data>
+        <name>Fraud case Management</name>
+        <navigation_type>breadcrumb</navigation_type>
+        <notifications_enabled>true</notifications_enabled>
+        <primary_color/>
+        <search_enabled>true</search_enabled>
+        <sys_class_name>sys_aw_master_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-13 12:47:34</sys_created_on>
+        <sys_id>a13fb02adb2610103de258b3ca9619d2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Fraud case Management</sys_name>
+        <sys_package display_value="Fraud case Management" source="x_262216_fraud_cas">4c7e7c2adb2610103de258b3ca9619ad</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Fraud case Management">4c7e7c2adb2610103de258b3ca9619ad</sys_scope>
+        <sys_update_name>sys_aw_master_config_a13fb02adb2610103de258b3ca9619d2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-13 12:47:34</sys_updated_on>
+        <user_preference_controls_enabled>true</user_preference_controls_enabled>
+        <workspace_logo/>
+        <workspace_url>fraud_case_managem</workspace_url>
+    </sys_aw_master_config>
+</record_update>

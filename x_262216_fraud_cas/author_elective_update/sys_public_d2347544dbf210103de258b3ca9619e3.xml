@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_public">
+    <sys_public action="DELETE">
+        <active>true</active>
+        <page>test</page>
+        <sys_class_name>sys_public</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-18 08:30:17</sys_created_on>
+        <sys_id>d2347544dbf210103de258b3ca9619e3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>test</sys_name>
+        <sys_package display_value="Fraud case Management" source="x_262216_fraud_cas">4c7e7c2adb2610103de258b3ca9619ad</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Fraud case Management">4c7e7c2adb2610103de258b3ca9619ad</sys_scope>
+        <sys_update_name>sys_public_d2347544dbf210103de258b3ca9619e3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-18 08:30:17</sys_updated_on>
+    </sys_public>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Fraud case Management">4c7e7c2adb2610103de258b3ca9619ad</application>
+        <file_path/>
+        <instance_id>6961a073db939384536ad5b0cf9619e2</instance_id>
+        <instance_name>dev66241</instance_name>
+        <name>sys_public_d2347544dbf210103de258b3ca9619e3</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_public"><sys_public action="INSERT_OR_UPDATE"><active>true</active><page>test</page><sys_class_name>sys_public</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-08-18 08:30:17</sys_created_on><sys_id>d2347544dbf210103de258b3ca9619e3</sys_id><sys_mod_count>0</sys_mod_count><sys_name>test</sys_name><sys_package display_value="Fraud case Management" source="x_262216_fraud_cas">4c7e7c2adb2610103de258b3ca9619ad</sys_package><sys_policy/><sys_scope display_value="Fraud case Management">4c7e7c2adb2610103de258b3ca9619ad</sys_scope><sys_update_name>sys_public_d2347544dbf210103de258b3ca9619e3</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-08-18 08:30:17</sys_updated_on></sys_public></record_update>]]></payload>
+        <payload_hash>1949381750</payload_hash>
+        <record_name>test</record_name>
+        <reverted_from/>
+        <source>cc7e7c2adb2610103de258b3ca9619af</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-18 08:30:17</sys_created_on>
+        <sys_id>55447544dbf210103de258b3ca96194c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17400b0be0f0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-18 08:30:17</sys_updated_on>
+        <type>Public Pages</type>
+        <update_guid>5d447544e0f210108d52aafdd208e34b</update_guid>
+        <update_guid_history>5d447544e0f210108d52aafdd208e34b:1949381750</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-18 08:30:28</sys_created_on>
+        <sys_db_object display_value="" name="sys_public">sys_public</sys_db_object>
+        <sys_id>7f16a2ab9ad7481a985c144c11b8eae9</sys_id>
+        <sys_metadata>d2347544dbf210103de258b3ca9619e3</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>test</sys_name>
+        <sys_package display_value="Fraud case Management" source="x_262216_fraud_cas">4c7e7c2adb2610103de258b3ca9619ad</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Fraud case Management">4c7e7c2adb2610103de258b3ca9619ad</sys_scope>
+        <sys_scope_delete display_value="">0364eeff9d3a4cc0b98b36d62fc50984</sys_scope_delete>
+        <sys_update_name>sys_public_d2347544dbf210103de258b3ca9619e3</sys_update_name>
+        <sys_update_version display_value="sys_public_d2347544dbf210103de258b3ca9619e3">55447544dbf210103de258b3ca96194c</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-18 08:30:28</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

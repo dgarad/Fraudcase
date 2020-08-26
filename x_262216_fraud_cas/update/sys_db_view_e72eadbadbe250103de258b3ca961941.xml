@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_view">
+    <sys_db_view action="INSERT_OR_UPDATE">
+        <description>join fraud sla to task sla </description>
+        <label>FraudcaseSLA</label>
+        <name>x_262216_fraud_cas_fraudcase_sla</name>
+        <plural>FraudcaseSLAs</plural>
+        <sys_class_name>sys_db_view</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-14 10:53:40</sys_created_on>
+        <sys_id>e72eadbadbe250103de258b3ca961941</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_262216_fraud_cas_fraudcase_sla</sys_name>
+        <sys_package display_value="Fraud case Management" source="x_262216_fraud_cas">4c7e7c2adb2610103de258b3ca9619ad</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Fraud case Management">4c7e7c2adb2610103de258b3ca9619ad</sys_scope>
+        <sys_update_name>sys_db_view_e72eadbadbe250103de258b3ca961941</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-14 10:53:40</sys_updated_on>
+    </sys_db_view>
+</record_update>

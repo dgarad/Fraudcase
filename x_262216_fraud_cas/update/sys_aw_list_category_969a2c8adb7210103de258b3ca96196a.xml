@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_aw_list_category">
+    <sys_aw_list_category action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description/>
+        <order>100</order>
+        <sys_class_name>sys_aw_list_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-24 08:16:45</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>969a2c8adb7210103de258b3ca96196a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Fraud Case</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Fraud case Management" source="x_262216_fraud_cas">4c7e7c2adb2610103de258b3ca9619ad</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Fraud case Management">4c7e7c2adb2610103de258b3ca9619ad</sys_scope>
+        <sys_update_name>sys_aw_list_category_969a2c8adb7210103de258b3ca96196a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-24 08:16:45</sys_updated_on>
+        <title>Fraud Case</title>
+        <workspace display_value="Fraud case Management">a13fb02adb2610103de258b3ca9619d2</workspace>
+    </sys_aw_list_category>
+</record_update>

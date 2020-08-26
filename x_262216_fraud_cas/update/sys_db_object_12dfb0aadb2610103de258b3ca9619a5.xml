@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object">
+    <sys_db_object action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <actions_access>true</actions_access>
+        <alter_access>true</alter_access>
+        <caller_access/>
+        <client_scripts_access>true</client_scripts_access>
+        <configuration_access>true</configuration_access>
+        <create_access>false</create_access>
+        <create_access_controls>true</create_access_controls>
+        <delete_access>false</delete_access>
+        <extension_model/>
+        <is_extendable>false</is_extendable>
+        <label>Fraud case Management</label>
+        <live_feed_enabled>false</live_feed_enabled>
+        <name>x_262216_fraud_cas_fraud_case_management</name>
+        <number_ref display_value="FRA">0c3045aadb2610103de258b3ca96199c</number_ref>
+        <provider_class/>
+        <read_access>true</read_access>
+        <scriptable_table>false</scriptable_table>
+        <super_class display_value="Task" name="task">6ccad1555d121300651727c3e282e84a</super_class>
+        <sys_class_code/>
+        <sys_class_name>sys_db_object</sys_class_name>
+        <sys_class_path/>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-13 12:50:52</sys_created_on>
+        <sys_id>12dfb0aadb2610103de258b3ca9619a5</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Fraud case Management</sys_name>
+        <sys_package display_value="Fraud case Management" source="x_262216_fraud_cas">4c7e7c2adb2610103de258b3ca9619ad</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Fraud case Management">4c7e7c2adb2610103de258b3ca9619ad</sys_scope>
+        <sys_update_name>sys_db_object_12dfb0aadb2610103de258b3ca9619a5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-24 09:32:23</sys_updated_on>
+        <update_access>false</update_access>
+        <user_role display_value="x_262216_fraud_cas.fraud_case_management_user" name="x_262216_fraud_cas.fraud_case_management_user">4effbce6db2610103de258b3ca96195b</user_role>
+        <ws_access>true</ws_access>
+    </sys_db_object>
+</record_update>

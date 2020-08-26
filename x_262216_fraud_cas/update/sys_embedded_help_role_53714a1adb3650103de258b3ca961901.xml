@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="sn_dd_fraudcasemanagement_integrations" name="sn_dd_fraudcasemanagement_integrations">1b710a1adb3650103de258b3ca9619fe</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-25 09:14:21</sys_created_on>
+        <sys_id>53714a1adb3650103de258b3ca961901</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>1b710a1adb3650103de258b3ca9619fe</sys_name>
+        <sys_package display_value="Fraud case Management" source="x_262216_fraud_cas">4c7e7c2adb2610103de258b3ca9619ad</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Fraud case Management">4c7e7c2adb2610103de258b3ca9619ad</sys_scope>
+        <sys_update_name>sys_embedded_help_role_53714a1adb3650103de258b3ca961901</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-25 09:14:21</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

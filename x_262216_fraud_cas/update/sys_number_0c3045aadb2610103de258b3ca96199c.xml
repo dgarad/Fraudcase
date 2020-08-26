@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_262216_fraud_cas_fraud_case_management">x_262216_fraud_cas_fraud_case_management</category>
+        <maximum_digits>7</maximum_digits>
+        <number>1000</number>
+        <prefix>FRA</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-13 12:51:50</sys_created_on>
+        <sys_id>0c3045aadb2610103de258b3ca96199c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>FRA</sys_name>
+        <sys_package display_value="Fraud case Management" source="x_262216_fraud_cas">4c7e7c2adb2610103de258b3ca9619ad</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Fraud case Management">4c7e7c2adb2610103de258b3ca9619ad</sys_scope>
+        <sys_update_name>sys_number_0c3045aadb2610103de258b3ca96199c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-13 12:51:50</sys_updated_on>
+    </sys_number>
+</record_update>
