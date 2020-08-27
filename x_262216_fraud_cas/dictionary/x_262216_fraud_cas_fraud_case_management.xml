@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element audit="true" extends="task" label="Fraud case Management" max_length="40" name="x_262216_fraud_cas_fraud_case_management" sizeclass="16" type="collection">
+    <element audit="true" extends="task" label="Fraud case Management" max_length="40" name="x_262216_fraud_cas_fraud_case_management" type="collection">
         <element choice="1" label="Case Stages" max_length="40" name="case_stages" type="choice">
             <choice>
                 <element inactive_on_update="false" label="Awaiting initial action" sequence="1" value="Awaiting initial action"/>

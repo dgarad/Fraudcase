@@ -12,7 +12,7 @@
         <description/>
         <internal_name>fraud_case__update</internal_name>
         <label_cache>[{"name":"Updated_1.current","label":"Trigger➛Incident Record","reference":"incident","reference_display":"Incident","type":"reference","base_type":"reference","attributes":{}},{"name":"fe6e7ecc-67a7-49dc-9711-218a9173632d.Status","label":"1➛Status","reference_display":"Status","type":"boolean","base_type":"boolean","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}}]</label_cache>
-        <latest_snapshot>bc1932a2db7690103de258b3ca9619f5</latest_snapshot>
+        <latest_snapshot>dffc93b6dbfa10103de258b3ca9619b6</latest_snapshot>
         <master_snapshot>e0097e62db7690103de258b3ca961943</master_snapshot>
         <name>fraud case  update</name>
         <natlang/>
@@ -84,14 +84,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-08-26 07:55:12</sys_created_on>
         <sys_id>b1f8fa62db7690103de258b3ca9619e8</sys_id>
-        <sys_mod_count>8</sys_mod_count>
+        <sys_mod_count>10</sys_mod_count>
         <sys_name/>
         <sys_package/>
         <sys_policy/>
         <sys_scope display_value="Fraud case Management">4c7e7c2adb2610103de258b3ca9619ad</sys_scope>
         <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-08-26 07:55:42</sys_updated_on>
+        <sys_updated_on>2020-08-27 05:11:07</sys_updated_on>
         <ui_id>fe6e7ecc-67a7-49dc-9711-218a9173632d</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=b1f8fa62db7690103de258b3ca9619e8"/>
@@ -452,14 +452,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-08-26 07:55:12</sys_created_on>
         <sys_id>b1f8fa62db7690103de258b3ca9619e8</sys_id>
-        <sys_mod_count>8</sys_mod_count>
+        <sys_mod_count>10</sys_mod_count>
         <sys_name/>
         <sys_package/>
         <sys_policy/>
         <sys_scope display_value="Fraud case Management">4c7e7c2adb2610103de258b3ca9619ad</sys_scope>
         <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-08-26 07:55:42</sys_updated_on>
+        <sys_updated_on>2020-08-27 05:11:07</sys_updated_on>
         <ui_id>fe6e7ecc-67a7-49dc-9711-218a9173632d</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=b1f8fa62db7690103de258b3ca9619e8"/>
@@ -490,11 +490,11 @@
         <sys_created_on>2020-08-26 07:55:12</sys_created_on>
         <sys_id>35f8fa62db7690103de258b3ca9619e0</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Table Name</sys_name>
         <sys_package display_value="Fraud case Management" source="x_262216_fraud_cas">4c7e7c2adb2610103de258b3ca9619ad</sys_package>
         <sys_policy/>
         <sys_scope display_value="Fraud case Management">4c7e7c2adb2610103de258b3ca9619ad</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_flow_input_7098fe6edb3690103de258b3ca961915_table_name_en</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2020-08-26 07:55:12</sys_updated_on>
         <url/>
@@ -513,11 +513,11 @@
         <sys_created_on>2020-08-26 07:55:12</sys_created_on>
         <sys_id>71f8fa62db7690103de258b3ca9619bc</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Record</sys_name>
         <sys_package display_value="Fraud case Management" source="x_262216_fraud_cas">4c7e7c2adb2610103de258b3ca9619ad</sys_package>
         <sys_policy/>
         <sys_scope display_value="Fraud case Management">4c7e7c2adb2610103de258b3ca9619ad</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_flow_input_7098fe6edb3690103de258b3ca961915_current_en</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2020-08-26 07:55:12</sys_updated_on>
         <url/>
@@ -536,11 +536,11 @@
         <sys_created_on>2020-08-26 07:55:12</sys_created_on>
         <sys_id>bdf8fa62db7690103de258b3ca9619c1</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Changed Fields</sys_name>
         <sys_package display_value="Fraud case Management" source="x_262216_fraud_cas">4c7e7c2adb2610103de258b3ca9619ad</sys_package>
         <sys_policy/>
         <sys_scope display_value="Fraud case Management">4c7e7c2adb2610103de258b3ca9619ad</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_flow_input_7098fe6edb3690103de258b3ca961915_changed_fields_en</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2020-08-26 07:55:12</sys_updated_on>
         <url/>
@@ -551,7 +551,7 @@
         <binding_strategy>com.snc.process_flow.engine.binding.Every</binding_strategy>
         <plan>{"persistor":{"@class":".ChunkingPlanPersistor","table":"sys_flow_trigger_plan","id":"8d097e62db7690103de258b3ca9619cf","name":"plan"}}</plan>
         <plan_id>7098fe6edb3690103de258b3ca961915</plan_id>
-        <snapshot>bc1932a2db7690103de258b3ca9619f5</snapshot>
+        <snapshot>dffc93b6dbfa10103de258b3ca9619b6</snapshot>
         <sys_class_name>sys_flow_trigger_plan</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-08-26 07:55:25</sys_created_on>
@@ -1028,11 +1028,11 @@
         <sys_created_on>2020-08-26 07:55:24</sys_created_on>
         <sys_id>34097e62db7690103de258b3ca961993</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Table Name</sys_name>
         <sys_package display_value="Fraud case Management" source="x_262216_fraud_cas">4c7e7c2adb2610103de258b3ca9619ad</sys_package>
         <sys_policy/>
         <sys_scope display_value="Fraud case Management">4c7e7c2adb2610103de258b3ca9619ad</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_flow_input_e0097e62db7690103de258b3ca961943_table_name_en</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2020-08-26 07:55:24</sys_updated_on>
         <url/>
@@ -1051,11 +1051,11 @@
         <sys_created_on>2020-08-26 07:55:24</sys_created_on>
         <sys_id>64097e62db7690103de258b3ca96198a</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Changed Fields</sys_name>
         <sys_package display_value="Fraud case Management" source="x_262216_fraud_cas">4c7e7c2adb2610103de258b3ca9619ad</sys_package>
         <sys_policy/>
         <sys_scope display_value="Fraud case Management">4c7e7c2adb2610103de258b3ca9619ad</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_flow_input_e0097e62db7690103de258b3ca961943_changed_fields_en</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2020-08-26 07:55:24</sys_updated_on>
         <url/>
@@ -1074,11 +1074,11 @@
         <sys_created_on>2020-08-26 07:55:24</sys_created_on>
         <sys_id>e8097e62db7690103de258b3ca96194b</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Record</sys_name>
         <sys_package display_value="Fraud case Management" source="x_262216_fraud_cas">4c7e7c2adb2610103de258b3ca9619ad</sys_package>
         <sys_policy/>
         <sys_scope display_value="Fraud case Management">4c7e7c2adb2610103de258b3ca9619ad</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_flow_input_e0097e62db7690103de258b3ca961943_current_en</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2020-08-26 07:55:24</sys_updated_on>
         <url/>
